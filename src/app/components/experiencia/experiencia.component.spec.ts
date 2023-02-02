@@ -20,4 +20,4 @@ describe('ExperienciaComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-});
+});  
